@@ -1,4 +1,4 @@
-streamlit
-yt-dlp
-moviepy
-numpy
+streamlit==1.25.0
+yt-dlp==2024.01.01
+moviepy==1.0.3
+numpy==1.23.5
