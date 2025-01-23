@@ -1,6 +1,3 @@
-import os
-os.environ["STREAMLIT_SERVER_MAX_UPLOAD_SIZE"] = "1000"  # Set max upload size to 1000 MB
-
 import streamlit as st
 import yt_dlp
 from moviepy.editor import VideoFileClip
