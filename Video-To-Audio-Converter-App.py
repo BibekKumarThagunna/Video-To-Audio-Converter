@@ -84,5 +84,14 @@ def main():
                 # Cleanup temporary files
                 os.remove(temp_video_path)
 
+    # Footer
+    st.markdown("---")
+    st.markdown(
+        "<div style='text-align: center; color: gray; font-size: small;'>"
+        "This project was created by <b>Bibek Kumar Thagunna</b>."
+        "</div>",
+        unsafe_allow_html=True
+    )
+
 if __name__ == "__main__":
     main()
