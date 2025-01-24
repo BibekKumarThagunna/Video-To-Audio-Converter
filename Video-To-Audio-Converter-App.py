@@ -87,7 +87,7 @@ def main():
     st.markdown("---")
     st.markdown(
         "<div style='text-align: center; color: gray; font-size: small;'>"
-        "This project was created by <b>Bibek Kumar Thagunna</b>."
+        "This project is created by <b>Bibek Kumar Thagunna</b>."
         "</div>",
         unsafe_allow_html=True
     )
